@@ -1,0 +1,397 @@
+   <nav id="navbar" class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav mx-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#home">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#new">New</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#best">Best</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#,match3">Match3</a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link" href="#bubble shooter">Bubble Shooter</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#puzzle">Puzzle</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#Quiz">Quiz</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#racing">Racing</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="#arcade">Arcade</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#multiplayer">multipayer</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#all games">All Games</a>
+              </li>
+          </div>
+        </div>
+    </nav>
+
+
+	<div class="content">
+		
+<div class="main-section">
+    <img src="image.jpg" alt="testing" width="800" height="400">
+
+	<h1 class="h2">Suyash ka project hai bc!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Person Typing"></h1>
+
+	<section class="previewTeaser">
+		<a href="https://play.famobi.com/tnt-bomb" target="_blank">
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TntBombTeaser.jpg" alt="">
+			<span class="details">
+				<h2>TNT Bomb</h2>
+				<p style="margin-bottom: 10px;">Be the master of destruction in this awesome arcade title called "TNT Bomb"! Adapt your strategy level by level and use mighty power-ups to bomb your way through!</p>
+
+				<span class="btn-primary">Play Now</span>
+			</span>
+		</a>
+	</section>
+
+		<li>
+	<a href="/Game/Perfect-Piano/24f835e0-d21a-47e1-a721-9f68beed83f3">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/PerfectPiano_Teaser.jpg?v=0.2-44994f02" alt="Perfect Piano">
+		</div>
+		<div class="name-container">
+			<div class="name">Perfect Piano</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Bubble-Woods/53159388-d515-45e5-b65a-56d21c595405">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleWoodsTeaser.jpg?v=0.2-44994f02" alt="Bubble Woods">
+		</div>
+		<div class="name-container">
+			<div class="name">Bubble Woods</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/3D-Free-Kick/2ee096ab-4cd7-4f9a-baa9-f58a54413c47">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/3dFreeKickTeaser.jpg?v=0.2-44994f02" alt="3D Free Kick">
+		</div>
+		<div class="name-container">
+			<div class="name">3D Free Kick</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/8-Ball-Billiards-Classic/82038e98-d4e1-46dd-8de9-1460d1395eab">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg?v=0.2-44994f02" alt="8 Ball Billiards Classic">
+		</div>
+		<div class="name-container">
+			<div class="name">8 Ball Billiards Classic</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Color-Pixel-Art-Classic/1d87d326-b266-4148-b2c8-c720d5285632">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorPixelArtClassicTeaser.jpg?v=0.2-44994f02" alt="Color Pixel Art Classic">
+		</div>
+		<div class="name-container">
+			<div class="name">Color Pixel Art Classic</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Archery-World-Tour/ebcb987a-3fd0-4b4a-bae6-f456fff9cac3">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcheryWorldTourTeaser.jpg?v=0.2-44994f02" alt="Archery World Tour">
+		</div>
+		<div class="name-container">
+			<div class="name">Archery World Tour</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Totemia-Cursed-Marbles/ca588700-4790-46f1-82a2-cef934fd368a">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/TotemiaCursedMarblesTeaser.jpg?v=0.2-44994f02" alt="Totemia: Cursed Marbles">
+		</div>
+		<div class="name-container">
+			<div class="name">Totemia: Cursed Marbles</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Gin-Rummy-Plus/4f0b6ea7-7801-41a2-9117-53aae9295173">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/GinRummyPlusTeaser.jpg?v=0.2-44994f02" alt="Gin Rummy Plus">
+		</div>
+		<div class="name-container">
+			<div class="name">Gin Rummy Plus</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Table-Tennis-World-Tour/8c8e5fc6-7e38-47ab-96eb-150276e79ef8">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg?v=0.2-44994f02" alt="Table Tennis World Tour">
+		</div>
+		<div class="name-container">
+			<div class="name">Table Tennis World Tour</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Solitaire-Klondike/5b597140-77c2-4f7c-9abf-4f149d6dcbac">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/SolitaireKlondikeTeaser.jpg?v=0.2-44994f02" alt="Solitaire Klondike">
+		</div>
+		<div class="name-container">
+			<div class="name">Solitaire Klondike</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Onet-Connect-Classic/d6173a60-1b41-4b34-b4c3-aa4c5fc9ce35">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/OnetConnectClassicTeaser.jpg?v=0.2-44994f02" alt="Onet Connect Classic">
+		</div>
+		<div class="name-container">
+			<div class="name">Onet Connect Classic</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Diamond-Rush/395b0746-6d0e-4ec8-b11c-18cab8009214">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRushTeaser.jpg?v=0.2-44994f02" alt="Diamond Rush">
+		</div>
+		<div class="name-container">
+			<div class="name">Diamond Rush</div>
+		</div>
+	</a>
+</li>			</ul>
+<li>
+	<a href="/Game/Fuzzies/664712c7-d01a-494a-bddf-4ea78f48e5bb">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/FuzziesTeaser.jpg?v=0.2-44994f02" alt="Fuzzies">
+		</div>
+		<div class="name-container">
+			<div class="name">Fuzzies</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Garden-Bloom/3f504f07-d674-4a4d-a02e-89e7414d8f26">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/GardenBloomTeaser.jpg?v=0.2-44994f02" alt="Garden Bloom">
+		</div>
+		<div class="name-container">
+			<div class="name">Garden Bloom</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Brain-Trainer/d267b353-ff18-4745-89f6-c390716a4f25">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/BrainTrainerTeaser.jpg?v=0.2-44994f02" alt="Brain Trainer">
+		</div>
+		<div class="name-container">
+			<div class="name">Brain Trainer</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Garden-Match-3D/19aabdea-15df-4a5f-a7d2-df389b572ecb">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/GardenMatch3dTeaser.jpg?v=0.2-44994f02" alt="Garden Match 3D">
+		</div>
+		<div class="name-container">
+			<div class="name">Garden Match 3D</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Pull-Pins/c24e5a78-927a-4b7c-a536-3452d1f57021">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/PullPinsTeaser.jpg?v=0.2-44994f02" alt="Pull Pins">
+		</div>
+		<div class="name-container">
+			<div class="name">Pull Pins</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Bubble-Tower-3D/1385d98a-b5f2-4339-bce7-b99a8dd2e8b0">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleTower3dTeaser.jpg?v=0.2-44994f02" alt="Bubble Tower 3D">
+		</div>
+		<div class="name-container">
+			<div class="name">Bubble Tower 3D</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Mahjong-World/eb8cbdba-50b2-44a8-acd5-7e8468a7f384">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/MahjongWorldTeaser.jpg?v=0.2-44994f02" alt="Mahjong World">
+		</div>
+		<div class="name-container">
+			<div class="name">Mahjong World</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Bus-Parking-3D/0a709615-79da-41b4-8d52-a0034b02435b">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/BusParking3dTeaser.jpg?v=0.2-44994f02" alt="Bus Parking 3D">
+		</div>
+		<div class="name-container">
+			<div class="name">Bus Parking 3D</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Crazy-Caves/663edc17-72cd-4415-89a6-6d069074ad6f">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/CrazyCavesTeaser.jpg?v=0.2-44994f02" alt="Crazy Caves">
+		</div>
+		<div class="name-container">
+			<div class="name">Crazy Caves</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Hoop-Royale/38886040-e6b3-41bd-8a2f-119b66d83e28">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/HoopRoyaleTeaser.jpg?v=0.2-44994f02" alt="Hoop Royale">
+		</div>
+		<div class="name-container">
+			<div class="name">Hoop Royale</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/TNT-Bomb/fa946169-bde2-4b3b-8552-08a85d7ae0e7">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/TntBombTeaser.jpg?v=0.2-44994f02" alt="TNT Bomb">
+		</div>
+		<div class="name-container">
+			<div class="name">TNT Bomb</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Smarty-Bubbles-2/22d86193-c681-45c4-9f4d-8d5aab731603">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles2Teaser.jpg?v=0.2-44994f02" alt="Smarty Bubbles 2">
+		</div>
+		<div class="name-container">
+			<div class="name">Smarty Bubbles 2</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Stack-Smash/3ad5d684-ab8b-4730-a209-8a614030c39a">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/StackSmashTeaser.jpg?v=0.2-44994f02" alt="Stack Smash">
+		</div>
+		<div class="name-container">
+			<div class="name">Stack Smash</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Mahjong-3D/a98f414e-385d-4e57-a62e-bb306c0f77cb">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/Mahjong3dTeaser.jpg?v=0.2-44994f02" alt="Mahjong 3D">
+		</div>
+		<div class="name-container">
+			<div class="name">Mahjong 3D</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Monkey-Bounce/cf951a62-6031-4b49-8870-60cfe8569a9f">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/MonkeyBounceTeaser.jpg?v=0.2-44994f02" alt="Monkey Bounce">
+		</div>
+		<div class="name-container">
+			<div class="name">Monkey Bounce</div>
+		</div>
+	</a>
+</li>					<li>
+	<a href="/Game/Curve-Ball-3D/f3319962-5fb5-441f-811a-4baf8aeb58e7">
+		<div class="icon">
+			<div class="clamp"></div>
+			<img src="https://img.cdn.famobi.com/portal/html5games/images/tmp/CurveBall3dTeaser.jpg?v=0.2-44994f02" alt="Curve Ball 3D">
+		</div>
+		<div class="name-container">
+			<div class="name">Curve Ball 3D</div>
+		</div>
+	</a>
+</li>			</ul>
+	
+
+	
+	<footer class="main">
+		<div class="footer-content">
+			<section class="tags">
+			<nav class="main">
+             <div class="container-fluid">
+             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
+             <span class="navbar-toggler-icon"></span>
+             </button>
+             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+              <ul class="navbar-nav mx-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#home">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#new">New</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#best">Best</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#,match3">Match3</a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link" href="#bubble shooter">Bubble Shooter</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#puzzle">Puzzle</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#Quiz">Quiz</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#racing">Racing</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="#arcade">Arcade</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#multiplayer">multipayer</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#all games">All Games</a>
+              </li>
+          </div>
+        </div>
+   </body>
+</html>
+
